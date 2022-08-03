@@ -8,7 +8,7 @@ In order to predict credit risk, it is going to be compare two new machine learn
 
 ![A1](m1.png) 
 
-![A1.1](m1.1.png)
+![A1.1](m1.1a.png)
 
 ![A2](m2.png) 
 
