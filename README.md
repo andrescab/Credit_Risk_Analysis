@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-The purpose of this analysis is to apply machine learning to solve challenges in credi card risk field. 
+The purpose of this analysis is to apply machine learning to solve challenges in credit card risk field. 
 In order to predict credit risk, it is going to be compare two new machine learning models that reduce bias. After that, the performance of these models will be evaluated to determine if those should be used to predict credit risk.
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
